@@ -1,3 +1,4 @@
 # myself
 d
 u
+w
